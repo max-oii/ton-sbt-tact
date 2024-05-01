@@ -1,4 +1,4 @@
-# ton-sbt
+# ton-sbt-tact
 
 ## Project structure
 
